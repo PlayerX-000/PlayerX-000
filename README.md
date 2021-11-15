@@ -7,4 +7,4 @@
 
   
   
-  ![Snake animation](https://github.com/PlayerX-000/Kauan_Henrique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kauan_Henrique/Kauan_Henrique/blob/output/github-contribution-grid-snake.svg)
