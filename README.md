@@ -1,5 +1,7 @@
-![Snake animation](https://github.com/PlayerX-000/Kauan_Henrique/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">Kauan Henrique</h1>
 
+
+![Snake animation](https://github.com/PlayerX-000/Kauan_Henrique/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
@@ -26,7 +28,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   
   
+  <h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
   
+  <h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+  
+  <h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+  
+  <h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
   
   
   
