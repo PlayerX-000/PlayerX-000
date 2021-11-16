@@ -27,13 +27,14 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   
-  
+  ## Site Usando EJS e Node.js
   <h1 align="center">
-  <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1.jpg" width="200"/>
+  <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1.jpg" width="400" href="https://github.com/PlayerX-000/Site-com-node-e-EJS"/>
 </h1>
   
+  ## Site Usando React e Node.js
   <h1 align="center">
-  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img2.jpg" width="200" />
+  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img2.jpg" width="400" href="https://github.com/PlayerX-000/next-react-node"/>
 </h1>
 
   
