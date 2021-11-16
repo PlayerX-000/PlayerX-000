@@ -29,11 +29,11 @@
   
   
   <h1 align="center">
-  <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1.jpg" />
+  <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1.jpg" width="200"/>
 </h1>
   
   <h1 align="center">
-  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img2.jpg" />
+  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img2.jpg" width="200" />
 </h1>
 
   
