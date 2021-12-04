@@ -30,7 +30,7 @@
   ## Site Usando EJS e Node.js
 <a href="http://pet-tour.ga/"><p>pet-tour.ga</p></a>
   <section align="center">
-    <a href="//github.com/PlayerX-000/Site-com-node-e-EJS">
+    <a href="https://github.com/PlayerX-000/PetTour">
   <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1.png" width="400" />
     </a>
 </section>
@@ -38,11 +38,11 @@
 
   
   ## Site Usando React e Node.js
-  <h1 align="center" >
+  <section align="center" >
       <a href="//github.com/PlayerX-000/next-react-node">
   <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img2.jpg" width="400" />
       </a>
-  </h1>
+  </section>
 
   
   
