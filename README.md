@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   
   ## Pet Tour
-  # site usando NodeJS, EJS e SQLite 
+  #### site usando NodeJS, EJS e SQLite 
 <p>Site: <a href="https://serene-island-58367.herokuapp.com/">Pet Tour</a></p>
   <section align="center">
     <a href="https://github.com/PlayerX-000/PetTour">
@@ -44,7 +44,7 @@
 
   
   ## Anotação
-  # site usando NodeJS, Mysql e EJS
+  #### site usando NodeJS, Mysql e EJS
   <section align="center" >
       <a href="//github.com/PlayerX-000/anotacao">
   <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1-notas.png" width="400" />
@@ -54,7 +54,7 @@
   
     
   ## Sua Busca
-  # site usando React, Next e NodeJS
+  #### site usando React, Next e NodeJS
   <section align="center" >
       <a href="//github.com/PlayerX-000/">
   <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/" width="400" />
