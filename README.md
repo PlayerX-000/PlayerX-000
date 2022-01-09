@@ -46,7 +46,7 @@
   ## Anotação
   #### site usando NodeJS, Mysql e EJS
   <section align="center" >
-      <a href="//github.com/PlayerX-000/anotacao">
+      <a href="https://github.com/PlayerX-000/SuaPesquisa">
   <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1-notas.png" width="400" />
       </a>
   </section>
@@ -56,8 +56,8 @@
   ## Sua Busca
   #### site usando React, Next e NodeJS
   <section align="center" >
-      <a href="//github.com/PlayerX-000/">
-  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/" width="400" />
+      <a href="//github.com/PlayerX-000/sua">
+  <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1-next.png" width="400" />
       </a>
   </section>
   
