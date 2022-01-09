@@ -56,7 +56,7 @@
   ## Sua Busca
   #### site usando React, Next e NodeJS
   <section align="center" >
-      <a href="//github.com/PlayerX-000/sua">
+      <a href="//github.com/PlayerX-000/SuaPesquisa">
   <img alt="NextLevelWeek" title="#Site com React" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1-next.png" width="400" />
       </a>
   </section>
