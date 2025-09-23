@@ -34,7 +34,6 @@
   
   ## Pet Tour
   #### site usando NodeJS, EJS e SQLite 
-<p>Site: <a href="https://serene-island-58367.herokuapp.com/">Pet Tour</a></p>
   <section align="center">
     <a href="https://github.com/PlayerX-000/PetTour">
   <img alt="NextLevelWeek" title="#Site com EJS" src="https://github.com/PlayerX-000/PlayerX-000/blob/main/img/img1-pettour.png" width="400" />
